@@ -1,0 +1,25 @@
+body{
+	background-color: #e8e3e3
+}
+
+.imgp img{
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.texto{
+	padding: 30px;
+}
+
+.texto p{
+	font-size: 1.5em;
+	text-align: justify;
+}
+
+.footer{
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    background: #F8F9FA ;
+}
